@@ -1,1 +1,1 @@
-# future-sales-prediction
+# Russian Weekly Sales Prediction
