@@ -13,7 +13,7 @@
 The data used in this project is fictitious and were taken from [Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview).
 
 ## Business Problem <a name="introduction"></a>
-A company with several physical stores and also with online service wants to plan for sales in the next 2 months, for that, it carries out a data science project;
+A company with several physical stores and also with online service wants to plan for sales in the next 3 months, for that, it carries out a data science project;
 
 ### Project Goal <a name="goal"></a>
 The goal of this project is to use Data Science techniques to create Insights of what can be done to reduce Churn and to try to predict which customers are likely to leave the company through Machine Learning.
