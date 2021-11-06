@@ -1,4 +1,5 @@
-![Project 02 (1)](https://user-images.githubusercontent.com/48516350/138435382-adc58fee-d38a-4413-8d10-7591c2d9d137.png)
+![Project 02 (2)](https://user-images.githubusercontent.com/48516350/140611865-f6f71e25-3805-4d85-b14a-c2c0a75e5685.png)
+
 
 # Table of contents
 1. [Data Source](#paragraph1)
